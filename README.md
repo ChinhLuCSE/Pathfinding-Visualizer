@@ -1,5 +1,7 @@
 # Pathfinding Visualizer
 
+🔗 **Live Demo:** https://your-project.vercel.app  
+
 A lightweight **Pathfinding Algorithm Visualizer** built with **React + TypeScript + Vite** and styled with **Tailwind CSS v4**. Draw walls on a grid, generate mazes, and watch popular pathfinding algorithms explore and find the shortest path.
 
 **Grid:** 39 rows × 49 columns
