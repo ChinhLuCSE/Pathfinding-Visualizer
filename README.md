@@ -71,6 +71,5 @@ src/
 ## 📝 Notes
 
 - Start and end tile positions are fixed (see configuration)
-- Consider adding a LICENSE file for redistribution
 
 **Built by** @chinhlucse
